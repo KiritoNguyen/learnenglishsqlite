@@ -1,0 +1,1187 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "dictionary": [
+    {
+      "id": 1,
+      "word": "compact",
+      "mean": "gọn nhẹ "
+      },
+      {
+      "id": 2,
+      "word": "eligible",
+      "mean": "đủ điều kiện "
+      },
+      {
+      "id": 3,
+      "word": "reputation",
+      "mean": "danh tiếng "
+      },
+      {
+      "id": 4,
+      "word": "reputable",
+      "mean": "có uy tín "
+      },
+      {
+      "id": 5,
+      "word": "behalf",
+      "mean": "thay mặt "
+      },
+      {
+      "id": 6,
+      "word": "on behalf of",
+      "mean": "thay mặt cho "
+      },
+      {
+      "id": 7,
+      "word": "scholarly",
+      "mean": "bác học "
+      },
+      {
+      "id": 8,
+      "word": "scholars",
+      "mean": "học giả "
+      },
+      {
+      "id": 9,
+      "word": "scholarship",
+      "mean": "học bổng "
+      },
+      {
+      "id": 10,
+      "word": "preserve",
+      "mean": "bảo tồn "
+      },
+      {
+      "id": 11,
+      "word": "preservation",
+      "mean": "sự bảo tồn "
+      },
+      {
+      "id": 12,
+      "word": "preserving",
+      "mean": "bảo quản "
+      },
+      {
+      "id": 13,
+      "word": "crescent",
+      "mean": "hình bán nguyệt "
+      },
+      {
+      "id": 14,
+      "word": "revenues",
+      "mean": "doanh thu "
+      },
+      {
+      "id": 15,
+      "word": "venue",
+      "mean": "hội họp / địa điểm "
+      },
+      {
+      "id": 16,
+      "word": "authentication",
+      "mean": "xác thực/ công nhận "
+      },
+      {
+      "id": 17,
+      "word": "get a taste",
+      "mean": "nếm thử "
+      },
+      {
+      "id": 18,
+      "word": "delectable",
+      "mean": "ngon lành "
+      },
+      {
+      "id": 19,
+      "word": "crafty",
+      "mean": "xảo trá / gian trá "
+      },
+      {
+      "id": 20,
+      "word": "craft /crafted",
+      "mean": "thủ công "
+      },
+      {
+      "id": 21,
+      "word": "garlic",
+      "mean": "tỏi "
+      },
+      {
+      "id": 22,
+      "word": "pasta",
+      "mean": "mỳ ống "
+      },
+      {
+      "id": 23,
+      "word": "reasonably",
+      "mean": "hợp lý "
+      },
+      {
+      "id": 24,
+      "word": "sauce",
+      "mean": "nước sốt "
+      },
+      {
+      "id": 25,
+      "word": "perform",
+      "mean": "biểu diễn (performing) "
+      },
+      {
+      "id": 26,
+      "word": "performed",
+      "mean": "thực hiện "
+      },
+      {
+      "id": 27,
+      "word": "performance",
+      "mean": "hiệu suất "
+      },
+      {
+      "id": 28,
+      "word": "leadership",
+      "mean": "khẳ năng lãnh đạo "
+      },
+      {
+      "id": 29,
+      "word": "remarkable",
+      "mean": "đáng chú ý/ đáng kể "
+      },
+      {
+      "id": 30,
+      "word": "disappointed",
+      "mean": "thất vọng "
+      },
+      {
+      "id": 31,
+      "word": "appointed",
+      "mean": "bổ nhiệm "
+      },
+      {
+      "id": 32,
+      "word": "appointment",
+      "mean": "cuộc hẹn / bổ nhiệm "
+      },
+      {
+      "id": 33,
+      "word": "specializes",
+      "mean": "chuyên môn "
+      },
+      {
+      "id": 34,
+      "word": "dough",
+      "mean": "bột "
+      },
+      {
+      "id": 35,
+      "word": "tenure",
+      "mean": "nhiệm kì "
+      },
+      {
+      "id": 36,
+      "word": "affordable",
+      "mean": "có thể chi trả "
+      },
+      {
+      "id": 37,
+      "word": "chairman",
+      "mean": "chủ tịch "
+      },
+      {
+      "id": 38,
+      "word": "popularity",
+      "mean": "phổ biến "
+      },
+      {
+      "id": 39,
+      "word": "visionary",
+      "mean": "nhìn xa trông rộng "
+      },
+      {
+      "id": 40,
+      "word": "delegation of task",
+      "mean": "giao nhiệm vụ "
+      },
+      {
+      "id": 41,
+      "word": "brochure",
+      "mean": "cuốn sách nhỏ "
+      },
+      {
+      "id": 42,
+      "word": "zoology",
+      "mean": "động vật học "
+      },
+      {
+      "id": 43,
+      "word": "interested",
+      "mean": "parties "
+      },
+      {
+      "id": 44,
+      "word": "processing",
+      "mean": "chết biến "
+      },
+      {
+      "id": 45,
+      "word": "payday",
+      "mean": "ngày lĩnh lương "
+      },
+      {
+      "id": 46,
+      "word": "theatrical",
+      "mean": "thuộc sân khấu "
+      },
+      {
+      "id": 47,
+      "word": "your resume",
+      "mean": "sơ yếu lý lịch của bạn "
+      },
+      {
+      "id": 48,
+      "word": "dismissal",
+      "mean": "sa thải "
+      },
+      {
+      "id": 49,
+      "word": "dismiss",
+      "mean": "gạt bỏ "
+      },
+      {
+      "id": 50,
+      "word": "dismissively",
+      "mean": "bác bỏ "
+      },
+      {
+      "id": 51,
+      "word": "dismissed",
+      "mean": "cách chức "
+      },
+      {
+      "id": 52,
+      "word": "association",
+      "mean": "công ty / đoàn thể/ sự kết hợp "
+      },
+      {
+      "id": 53,
+      "word": "",
+      "mean": ""
+      },
+      {
+      "id": 54,
+      "word": "plump",
+      "mean": "đầy đặn "
+      },
+      {
+      "id": 55,
+      "word": "plummeted",
+      "mean": "giảm mạnh/ lao "
+      },
+      {
+      "id": 56,
+      "word": "plumber",
+      "mean": "thợ sửa ống nước "
+      },
+      {
+      "id": 57,
+      "word": "sudden burst",
+      "mean": "xuất hiện đột ngột "
+      },
+      {
+      "id": 58,
+      "word": "tenant",
+      "mean": "người thuê nha "
+      },
+      {
+      "id": 59,
+      "word": "follow up",
+      "mean": "theo sát "
+      },
+      {
+      "id": 60,
+      "word": "virtually",
+      "mean": "hầu như "
+      },
+      {
+      "id": 61,
+      "word": "proceed",
+      "mean": "tiến hành / tiếp tục "
+      },
+      {
+      "id": 62,
+      "word": "proceeded",
+      "mean": "tiến hành "
+      },
+      {
+      "id": 63,
+      "word": "proceeds",
+      "mean": "tiền thu được / lợi nhuận "
+      },
+      {
+      "id": 64,
+      "word": "prototype",
+      "mean": "nguyên mãu / vật mẫu đầu tiên "
+      },
+      {
+      "id": 65,
+      "word": "nominated",
+      "mean": "được đề cử "
+      },
+      {
+      "id": 66,
+      "word": "nomination",
+      "mean": "sự đề cử "
+      },
+      {
+      "id": 67,
+      "word": "dedication",
+      "mean": "cống hiến "
+      },
+      {
+      "id": 68,
+      "word": "dedicated to you",
+      "mean": "dành riêng cho bạn "
+      },
+      {
+      "id": 69,
+      "word": "dedicated",
+      "mean": "tận tụy "
+      },
+      {
+      "id": 70,
+      "word": "assured that",
+      "mean": "đảm bảo rằng "
+      },
+      {
+      "id": 71,
+      "word": "forecast",
+      "mean": "dự báo "
+      },
+      {
+      "id": 72,
+      "word": "fountain",
+      "mean": "đài phun nước "
+      },
+      {
+      "id": 73,
+      "word": "",
+      "mean": ""
+      },
+      {
+      "id": 74,
+      "word": "warehouse",
+      "mean": "kho "
+      },
+      {
+      "id": 75,
+      "word": "coordinator",
+      "mean": "người điều phối "
+      },
+      {
+      "id": 76,
+      "word": "contractor",
+      "mean": "nhà thầu "
+      },
+      {
+      "id": 77,
+      "word": "thrive",
+      "mean": "phát triển "
+      },
+      {
+      "id": 78,
+      "word": "outdoor",
+      "mean": "ngoài trời "
+      },
+      {
+      "id": 79,
+      "word": "comes out",
+      "mean": "xuất hiện "
+      },
+      {
+      "id": 80,
+      "word": "turnaround",
+      "mean": "quay lại "
+      },
+      {
+      "id": 81,
+      "word": "not meet all",
+      "mean": "không đáp ứng tất cả "
+      },
+      {
+      "id": 82,
+      "word": "resulted in",
+      "mean": "dẫn đến "
+      },
+      {
+      "id": 83,
+      "word": "footrest",
+      "mean": "gác chân "
+      },
+      {
+      "id": 84,
+      "word": "recline",
+      "mean": "ngả lưng "
+      },
+      {
+      "id": 85,
+      "word": "recliner",
+      "mean": "ghế tựa "
+      },
+      {
+      "id": 86,
+      "word": "disincline",
+      "mean": "không thích/ không ưa "
+      },
+      {
+      "id": 87,
+      "word": "inclined",
+      "mean": "nghiêng "
+      },
+      {
+      "id": 88,
+      "word": "vacancy",
+      "mean": "vị trí còn trống "
+      },
+      {
+      "id": 89,
+      "word": "vacancies",
+      "mean": "vị trí tuyển dụng "
+      },
+      {
+      "id": 90,
+      "word": "characteristics",
+      "mean": "đặc trưng "
+      },
+      {
+      "id": 91,
+      "word": "contemporary",
+      "mean": "đồng thời/ đương thời "
+      },
+      {
+      "id": 92,
+      "word": "boutique",
+      "mean": "cửa hàng quần áo "
+      },
+      {
+      "id": 93,
+      "word": "invoice",
+      "mean": "hóa đơn "
+      },
+      {
+      "id": 94,
+      "word": "displeased",
+      "mean": "không hài lòng "
+      },
+      {
+      "id": 95,
+      "word": "release",
+      "mean": "phóng thích "
+      },
+      {
+      "id": 96,
+      "word": "lease",
+      "mean": "cho thuê "
+      },
+      {
+      "id": 97,
+      "word": "preoccupied",
+      "mean": "bận tâm/ chiếm được "
+      },
+      {
+      "id": 98,
+      "word": "occupied",
+      "mean": "chiếm lĩnh "
+      },
+      {
+      "id": 99,
+      "word": "occupies",
+      "mean": "nơi làm việc "
+      },
+      {
+      "id": 100,
+      "word": "opportunity",
+      "mean": "cơ hội / dịp tốt "
+      },
+      {
+      "id": 101,
+      "word": "wondrous opportunity",
+      "mean": "cơ hội tuyệt vời "
+      },
+      {
+      "id": 102,
+      "word": "wondrous",
+      "mean": "kỳ diệu / tuyệt vời "
+      },
+      {
+      "id": 103,
+      "word": "regulation",
+      "mean": "quy định "
+      },
+      {
+      "id": 104,
+      "word": "originate",
+      "mean": "bắt nguồn "
+      },
+      {
+      "id": 105,
+      "word": "sponsorship",
+      "mean": "sự tài trợ "
+      },
+      {
+      "id": 106,
+      "word": "sponsor",
+      "mean": "nhà tài trợ "
+      },
+      {
+      "id": 107,
+      "word": "mattress",
+      "mean": "nệm "
+      },
+      {
+      "id": 108,
+      "word": "candidate",
+      "mean": "ứng viên "
+      },
+      {
+      "id": 109,
+      "word": "competence",
+      "mean": "năng lực "
+      },
+      {
+      "id": 110,
+      "word": "dozed off",
+      "mean": "ngủ gật "
+      },
+      {
+      "id": 111,
+      "word": "attracted",
+      "mean": "thu hút "
+      },
+      {
+      "id": 112,
+      "word": "replicate",
+      "mean": "nhân rộng (phỏng y theo) "
+      },
+      {
+      "id": 113,
+      "word": "liberal democracy",
+      "mean": "dân chủ tự do "
+      },
+      {
+      "id": 114,
+      "word": "take over",
+      "mean": "đảm nhận "
+      },
+      {
+      "id": 115,
+      "word": "undertake",
+      "mean": "đảm nhận "
+      },
+      {
+      "id": 116,
+      "word": "in advance for",
+      "mean": "trước cho "
+      },
+      {
+      "id": 117,
+      "word": "in advance",
+      "mean": "trước "
+      },
+      {
+      "id": 118,
+      "word": "in advance of",
+      "mean": "có lợi ích "
+      },
+      {
+      "id": 119,
+      "word": "lawn mower",
+      "mean": "máy cắt cỏ "
+      },
+      {
+      "id": 120,
+      "word": "internal force",
+      "mean": "nội lực "
+      },
+      {
+      "id": 121,
+      "word": "internally",
+      "mean": "phía trong / nội tâm "
+      },
+      {
+      "id": 122,
+      "word": "commute",
+      "mean": "đường đi làm "
+      },
+      {
+      "id": 123,
+      "word": "commuter",
+      "mean": "đi lại "
+      },
+      {
+      "id": 124,
+      "word": "liberal",
+      "mean": "tự do "
+      },
+      {
+      "id": 125,
+      "word": "freight",
+      "mean": "vận chuyển hàng hóa "
+      },
+      {
+      "id": 126,
+      "word": "accommodation",
+      "mean": "chỗ ở "
+      },
+      {
+      "id": 127,
+      "word": "whether",
+      "mean": "cho dù "
+      },
+      {
+      "id": 128,
+      "word": "state-of-the-art",
+      "mean": "hiện đại nhất "
+      },
+      {
+      "id": 129,
+      "word": "complementary",
+      "mean": "bổ túc "
+      },
+      {
+      "id": 130,
+      "word": "guardian",
+      "mean": "người giám hộ "
+      },
+      {
+      "id": 131,
+      "word": "gratuity",
+      "mean": "tiền boa "
+      },
+      {
+      "id": 132,
+      "word": "turnout",
+      "mean": "cử tri "
+      },
+      {
+      "id": 133,
+      "word": "in the last few years",
+      "mean": "trong vài năm qua "
+      },
+      {
+      "id": 134,
+      "word": "botanical",
+      "mean": "thuộc thực vật "
+      },
+      {
+      "id": 135,
+      "word": "manufactory",
+      "mean": "xưởng sản xuất "
+      },
+      {
+      "id": 136,
+      "word": "due to",
+      "mean": "bởi vì "
+      },
+      {
+      "id": 137,
+      "word": "cut back",
+      "mean": "cắt giảm "
+      },
+      {
+      "id": 138,
+      "word": "prescription",
+      "mean": "đơn thuốc "
+      },
+      {
+      "id": 139,
+      "word": "illiterate",
+      "mean": "mù chữ "
+      },
+      {
+      "id": 140,
+      "word": "illegible",
+      "mean": "khó đọc / không thể đọc được "
+      },
+      {
+      "id": 141,
+      "word": "illuminated",
+      "mean": "chiếu sáng "
+      },
+      {
+      "id": 142,
+      "word": "illimitable",
+      "mean": "không phù hợp / vô hạn "
+      },
+      {
+      "id": 143,
+      "word": "subscription",
+      "mean": "đăng ký "
+      },
+      {
+      "id": 144,
+      "word": "renovate",
+      "mean": "cải tạo "
+      },
+      {
+      "id": 145,
+      "word": "necessities",
+      "mean": "nhu yếu phẩm "
+      },
+      {
+      "id": 146,
+      "word": "antiquities",
+      "mean": "cổ vật "
+      },
+      {
+      "id": 147,
+      "word": "antique",
+      "mean": "đồ cổ "
+      },
+      {
+      "id": 148,
+      "word": "phonetically",
+      "mean": "phiên âm "
+      },
+      {
+      "id": 149,
+      "word": "misused",
+      "mean": "lạm dụng "
+      },
+      {
+      "id": 150,
+      "word": "misguided",
+      "mean": "lầm đường lạc lối "
+      },
+      {
+      "id": 151,
+      "word": "phonetic",
+      "mean": "ngữ âm "
+      },
+      {
+      "id": 152,
+      "word": "seminar",
+      "mean": "hội thảo "
+      },
+      {
+      "id": 153,
+      "word": "pumped up",
+      "mean": "bơm lên "
+      },
+      {
+      "id": 154,
+      "word": "productivity",
+      "mean": "năng suất "
+      },
+      {
+      "id": 155,
+      "word": "archaic",
+      "mean": "cổ xưa "
+      },
+      {
+      "id": 156,
+      "word": "endeavor",
+      "mean": "nỗ lực "
+      },
+      {
+      "id": 157,
+      "word": "entrepreneur",
+      "mean": "doanh nhân "
+      },
+      {
+      "id": 158,
+      "word": "be issued",
+      "mean": "được phát hành "
+      },
+      {
+      "id": 159,
+      "word": "extract",
+      "mean": "trích xuất "
+      },
+      {
+      "id": 160,
+      "word": "downtown",
+      "mean": "trung tâm "
+      },
+      {
+      "id": 161,
+      "word": "literacy",
+      "mean": "trình độ học vấn "
+      },
+      {
+      "id": 162,
+      "word": "literature",
+      "mean": "văn học "
+      },
+      {
+      "id": 163,
+      "word": "literally",
+      "mean": "theo nghĩa đen "
+      },
+      {
+      "id": 164,
+      "word": "literally happened",
+      "mean": "thực sự xảy ra "
+      },
+      {
+      "id": 165,
+      "word": "literary",
+      "mean": "văn học "
+      },
+      {
+      "id": 166,
+      "word": "contagious",
+      "mean": "truyền nhiễm "
+      },
+      {
+      "id": 167,
+      "word": "primarily",
+      "mean": "chủ yếu / nguyên thủy "
+      },
+      {
+      "id": 168,
+      "word": "principally",
+      "mean": "về cơ bản "
+      },
+      {
+      "id": 169,
+      "word": "interweaving",
+      "mean": "đan xen "
+      },
+      {
+      "id": 170,
+      "word": "transgressing",
+      "mean": "vi phạm "
+      },
+      {
+      "id": 171,
+      "word": "intersect",
+      "mean": "giao nhau "
+      },
+      {
+      "id": 172,
+      "word": "intersection",
+      "mean": "ngã tư "
+      },
+      {
+      "id": 173,
+      "word": "renege",
+      "mean": "đổi mới "
+      },
+      {
+      "id": 174,
+      "word": "innovating",
+      "mean": "đổi mới "
+      },
+      {
+      "id": 175,
+      "word": "innovate",
+      "mean": "đổi mới "
+      },
+      {
+      "id": 176,
+      "word": "innovative",
+      "mean": "đổi mới "
+      },
+      {
+      "id": 177,
+      "word": "very innovative",
+      "mean": "rất sáng tạo "
+      },
+      {
+      "id": 178,
+      "word": "innovation",
+      "mean": "sự đổi mới "
+      },
+      {
+      "id": 179,
+      "word": "renovation",
+      "mean": "cải tạo "
+      },
+      {
+      "id": 180,
+      "word": "repossess",
+      "mean": "chiếm lại "
+      },
+      {
+      "id": 181,
+      "word": "undermine",
+      "mean": "hủy hoại "
+      },
+      {
+      "id": 182,
+      "word": "undermined",
+      "mean": "làm suy yếu (undermines) "
+      },
+      {
+      "id": 183,
+      "word": "figure",
+      "mean": "con số/ nhân vật "
+      },
+      {
+      "id": 184,
+      "word": "figures",
+      "mean": "số liệu "
+      },
+      {
+      "id": 185,
+      "word": "production",
+      "mean": "sản lượng "
+      },
+      {
+      "id": 186,
+      "word": "prospect",
+      "mean": "tiềm năng "
+      },
+      {
+      "id": 187,
+      "word": "morale",
+      "mean": "đạo đức / tinh thần "
+      },
+      {
+      "id": 188,
+      "word": "moral",
+      "mean": "có đạo đức "
+      },
+      {
+      "id": 189,
+      "word": "apart from me",
+      "mean": "ngoài tôi "
+      },
+      {
+      "id": 190,
+      "word": "instigate",
+      "mean": "xúi giục / gây loạn "
+      },
+      {
+      "id": 191,
+      "word": "instigation",
+      "mean": "xúi giục "
+      },
+      {
+      "id": 192,
+      "word": "disposition",
+      "mean": "bố trí / tánh tình "
+      },
+      {
+      "id": 193,
+      "word": "villa",
+      "mean": "biệt thự "
+      },
+      {
+      "id": 194,
+      "word": "pinnacle",
+      "mean": "đỉnh cao "
+      },
+      {
+      "id": 195,
+      "word": "defyingly",
+      "mean": "thách thức "
+      },
+      {
+      "id": 196,
+      "word": "prestige",
+      "mean": "uy tín / uy doanh "
+      },
+      {
+      "id": 197,
+      "word": "repetitive",
+      "mean": "lặp đi lặp lại "
+      },
+      {
+      "id": 198,
+      "word": "complimented me",
+      "mean": "khen tôi "
+      },
+      {
+      "id": 199,
+      "word": "complimenting",
+      "mean": "khen ngợi / tôn lên "
+      },
+      {
+      "id": 200,
+      "word": "compliment",
+      "mean": "khen ngợi "
+      },
+      {
+      "id": 201,
+      "word": "moderation",
+      "mean": "điều độ "
+      },
+      {
+      "id": 202,
+      "word": "moderate",
+      "mean": "vừa phải "
+      },
+      {
+      "id": 203,
+      "word": "captivate",
+      "mean": "quyến rũ "
+      },
+      {
+      "id": 204,
+      "word": "pertinent / pertinently",
+      "mean": "thích hợp "
+      },
+      {
+      "id": 205,
+      "word": "impertinent",
+      "mean": "không thích hợp "
+      },
+      {
+      "id": 206,
+      "word": "fundamentally",
+      "mean": "về cơ bản "
+      },
+      {
+      "id": 207,
+      "word": "inadequate",
+      "mean": "không thỏa đáng/ không đủ/ ít "
+      },
+      {
+      "id": 208,
+      "word": "adequate",
+      "mean": "đủ "
+      },
+      {
+      "id": 209,
+      "word": "adequately",
+      "mean": "đầy đủ "
+      },
+      {
+      "id": 210,
+      "word": "inadequately",
+      "mean": "không đủ "
+      },
+      {
+      "id": 211,
+      "word": "insignificant",
+      "mean": "tầm thường / không đáng kể "
+      },
+      {
+      "id": 212,
+      "word": "inventory",
+      "mean": "kiểm kê "
+      },
+      {
+      "id": 213,
+      "word": "inventories",
+      "mean": "hàng tồn kho "
+      },
+      {
+      "id": 214,
+      "word": "acquainted",
+      "mean": "quen biết/ hiểu biết "
+      },
+      {
+      "id": 215,
+      "word": "acquaintance",
+      "mean": "người quen "
+      },
+      {
+      "id": 216,
+      "word": "acquainted",
+      "mean": "hiểu biết "
+      },
+      {
+      "id": 217,
+      "word": "cope with",
+      "mean": "đối phó với "
+      },
+      {
+      "id": 218,
+      "word": "inverse",
+      "mean": "nghịch đảo "
+      },
+      {
+      "id": 219,
+      "word": "internal",
+      "mean": "nội bộ "
+      },
+      {
+      "id": 220,
+      "word": "intern",
+      "mean": "thực tập sinh "
+      },
+      {
+      "id": 221,
+      "word": "well-known",
+      "mean": "nổi tiếng "
+      },
+      {
+      "id": 222,
+      "word": "acquainted with",
+      "mean": "quen việc với "
+      },
+      {
+      "id": 223,
+      "word": "integral",
+      "mean": "tích phân "
+      },
+      {
+      "id": 224,
+      "word": "inclination",
+      "mean": "độ nghiêng / sự chênh lệch "
+      },
+      {
+      "id": 225,
+      "word": "infernal",
+      "mean": "âm phủ "
+      },
+      {
+      "id": 226,
+      "word": "interval",
+      "mean": "khoảng thời gian "
+      },
+      {
+      "id": 227,
+      "word": "happen to",
+      "mean": "xảy ra / tình cở "
+      },
+      {
+      "id": 228,
+      "word": "realize",
+      "mean": "nhận ra "
+      },
+      {
+      "id": 229,
+      "word": "clever",
+      "mean": "thông minh "
+      },
+      {
+      "id": 230,
+      "word": "leverage",
+      "mean": "tận dụng "
+      },
+      {
+      "id": 231,
+      "word": "lever",
+      "mean": "đòn bẩy "
+      },
+      {
+      "id": 232,
+      "word": "levered",
+      "mean": "cho vay "
+      },
+      {
+      "id": 233,
+      "word": "comply",
+      "mean": "tuân theo "
+      }
+      
+  ]
+}
